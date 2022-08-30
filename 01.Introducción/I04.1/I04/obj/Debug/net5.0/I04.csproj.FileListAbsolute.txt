@@ -1,0 +1,16 @@
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.exe
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.deps.json
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.runtimeconfig.json
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.runtimeconfig.dev.json
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\bin\Debug\net5.0\I04.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\refint\I04.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\I04.genruntimeconfig.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04\I04\obj\Debug\net5.0\ref\I04.dll

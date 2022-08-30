@@ -1,0 +1,16 @@
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.exe
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.deps.json
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.runtimeconfig.json
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.runtimeconfig.dev.json
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\bin\Debug\net5.0\I08.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\refint\I08.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\I08.genruntimeconfig.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I08\I08\obj\Debug\net5.0\ref\I08.dll

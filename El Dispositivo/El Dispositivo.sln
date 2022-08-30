@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{F5A712D8-150B-4261-9802-9B688A6EFFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaForm", "VistaForm\VistaForm.csproj", "{58548D0C-536B-4CFF-B7FC-7582EE5E281E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A712D8-150B-4261-9802-9B688A6EFFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A712D8-150B-4261-9802-9B688A6EFFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A712D8-150B-4261-9802-9B688A6EFFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A712D8-150B-4261-9802-9B688A6EFFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58548D0C-536B-4CFF-B7FC-7582EE5E281E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58548D0C-536B-4CFF-B7FC-7582EE5E281E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58548D0C-536B-4CFF-B7FC-7582EE5E281E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58548D0C-536B-4CFF-B7FC-7582EE5E281E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B138FB2F-619F-43EA-9F4E-D9229FEFCFDE}
+	EndGlobalSection
+EndGlobal

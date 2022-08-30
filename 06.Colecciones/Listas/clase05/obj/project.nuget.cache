@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3CXZIREHPgOkA+2XKFF0PPoR/mTP/7v/uS0cbJtI6TNpGkXUv1Iw/Vi8CQqOyDxwB93VrL0yKKXM1BsfRHMkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\clase05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

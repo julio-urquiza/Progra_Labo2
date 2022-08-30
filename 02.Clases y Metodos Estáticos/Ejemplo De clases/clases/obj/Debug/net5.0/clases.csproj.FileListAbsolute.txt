@@ -1,0 +1,12 @@
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\bin\Debug\net5.0\clases.deps.json
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\bin\Debug\net5.0\clases.dll
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\bin\Debug\net5.0\clases.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.dll
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\refint\clases.dll
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\clases.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\ConsoleApp1\clases\obj\Debug\net5.0\ref\clases.dll

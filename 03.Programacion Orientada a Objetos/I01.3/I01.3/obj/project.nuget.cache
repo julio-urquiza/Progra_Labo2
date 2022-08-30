@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rvoYodCk4Orllkf2QuUDxGjir7QpsOp2I/KVBK73UFQqidhi62SMZtkhU6SSk3H8GDcjfqTBVPH7pa6A2aJxPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\03.Programacion Orientada a Objetos\\I01.3\\I01.3\\Vistas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

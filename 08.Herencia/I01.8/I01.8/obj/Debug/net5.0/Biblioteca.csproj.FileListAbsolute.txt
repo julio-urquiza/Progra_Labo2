@@ -1,0 +1,5 @@
+C:\Users\Julio Cesar Urquiza\source\repos\08.Herencia\Biblioteca\I01.8\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\repos\08.Herencia\Biblioteca\I01.8\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\repos\08.Herencia\Biblioteca\I01.8\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\08.Herencia\Biblioteca\I01.8\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\repos\08.Herencia\Biblioteca\I01.8\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache

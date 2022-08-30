@@ -1,0 +1,12 @@
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\bin\Debug\net5.0\Bibioteca.deps.json
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\bin\Debug\net5.0\Bibioteca.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\bin\Debug\net5.0\Bibioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\refint\Bibioteca.dll
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\Bibioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\repos\I04.2\Bibioteca\obj\Debug\net5.0\ref\Bibioteca.dll
