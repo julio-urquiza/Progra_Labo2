@@ -13,6 +13,9 @@ namespace Biblioteca
         private int notaSegundoParcial;
         private static Random random;
 
+        public int NotaPrimerParcial { get => notaPrimerParcial; set => notaPrimerParcial = value; }
+        public int NotaSegundoParcial { get => notaSegundoParcial; set => notaSegundoParcial = value; }
+
         public Estudiante(string nombre,string apellido,string legajo )
         {
             this.apellido = apellido;

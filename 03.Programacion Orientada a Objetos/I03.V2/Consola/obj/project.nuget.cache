@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IkyYHETkYRDFIL6/+IKsk36hwQZiE4Fia2YFt2jEo6VEh6NCIA3Eyu6BJ1BWXX/eTS/26vT2Kvj1NdIZH3LTQQ==",
+  "dgSpecHash": "0+FUmK9s3YGPemNHMnTH8SMVzCyQ4SRSTv6xWv2I3YKQWLYK8tZkhw6A6mTy9kUSYysjmYhaKV+81zwZdhnuMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\progra y labo 2\\03.POO\\I03\\Consola\\Consola.csproj",
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\03.Programacion Orientada a Objetos\\I03.V2\\Consola\\Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

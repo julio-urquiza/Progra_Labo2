@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\progra y labo 2\\03.POO\\I03\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\03.Programacion Orientada a Objetos\\I03.V2\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\progra y labo 2\\03.POO\\I03\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\03.Programacion Orientada a Objetos\\I03.V2\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\progra y labo 2\\03.POO\\I03\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\03.Programacion Orientada a Objetos\\I03.V2\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julio Cesar Urquiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
