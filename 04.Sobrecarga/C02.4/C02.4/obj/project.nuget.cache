@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8O3aG5odrrRWnHM7DEfGSWuCJtJJ78w2MSMHv/SFrhogOJ4BWJB9NQyUWNun/7G580NsajfKcQGGo1A/DpM2A==",
+  "dgSpecHash": "/7R13rSdS1/Yz/dOLD9YUmniU8+z0mtuiBJ3RHBchKxb0/6lq75QZ2+EScMiRf3Dj/vKFKDqV4uT6fEv0b8uQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\04.Sobrecarga\\C02.4\\C02.4\\Vistas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\04.Sobrecarga\\C02.4\\C02.4\\Vistas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
