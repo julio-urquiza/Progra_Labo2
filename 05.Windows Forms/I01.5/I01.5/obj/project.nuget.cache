@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hEFqwl7M0/7Or+1hDxhFv9h0MUj56Yrmh+qOMIs5JluzxriRCOd+XNyQS9utTs/Pj8DLJQQpZLYfFkzWoIMzlg==",
+  "dgSpecHash": "asfti3MvKEUwiqwHRBE7+fhn7Rt/rhF9apZrDy+mTNt1Tt3gTVpd58gP+J+eE66RhCmuuHUrly0gRZjv6Cl1PA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\I01.5\\I01.5\\Ui.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\05.Windows Forms\\I01.5\\I01.5\\Ui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

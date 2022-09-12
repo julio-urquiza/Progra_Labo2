@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formulario", "Formulario\Formulario.csproj", "{9CD75F2F-B1BC-4C6F-9FFB-5938A9B83E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{76D8E180-1CEB-418B-AE33-A72729989472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD75F2F-B1BC-4C6F-9FFB-5938A9B83E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD75F2F-B1BC-4C6F-9FFB-5938A9B83E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD75F2F-B1BC-4C6F-9FFB-5938A9B83E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD75F2F-B1BC-4C6F-9FFB-5938A9B83E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D8E180-1CEB-418B-AE33-A72729989472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D8E180-1CEB-418B-AE33-A72729989472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D8E180-1CEB-418B-AE33-A72729989472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D8E180-1CEB-418B-AE33-A72729989472}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F112B90C-2DA4-4378-B061-EDC8D2845965}
+	EndGlobalSection
+EndGlobal
