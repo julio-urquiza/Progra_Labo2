@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHKNkwR88RaFB+aTxGL0SlhTykBL+wCo8zJrbmFkZ4xHT2IKn3OOzbg3HulCIMpHkxu11OSLZRYw5ARODjiBPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\I01.Numeros Locos\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -90,7 +90,22 @@ namespace clase05
             {
                 Console.WriteLine(item);
             }
-
+            if(comidas.ContainsKey("taco"))
+            {
+                Console.WriteLine(comidas["taco"]);
+            }
+            else
+            {
+                Console.WriteLine("no se encuentra la clave");
+            }
+            if(comidas.ContainsValue("mexico"))
+            {
+                Console.WriteLine("se encontro el valor");
+            }
+            else
+            {
+                Console.WriteLine("no se encuentra el valor");
+            }
 
 
 

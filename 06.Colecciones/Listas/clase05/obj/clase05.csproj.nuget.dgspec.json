@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\clase05.csproj": {}
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\Listas\\clase05\\clase05.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\clase05.csproj": {
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\Listas\\clase05\\clase05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\clase05.csproj",
+        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\Listas\\clase05\\clase05.csproj",
         "projectName": "clase05",
-        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\clase05.csproj",
+        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\Listas\\clase05\\clase05.csproj",
         "packagesPath": "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\clase05\\clase05\\obj\\",
+        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\06.Colecciones\\Listas\\clase05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio Cesar Urquiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
