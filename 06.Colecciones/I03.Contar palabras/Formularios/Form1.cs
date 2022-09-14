@@ -22,6 +22,7 @@ namespace Formularios
         private void buttonContar_Click(object sender, EventArgs e)
         {
             List<string>palabras=richTextBox.Text.Split(' ').ToList();
+            List<KeyValuePair<string, int>> list = new List<KeyValuePair<string, int>>();
             foreach(string palabra in palabras)
             {
                 if(!diccionario.ContainsKey(palabra))
@@ -33,17 +34,23 @@ namespace Formularios
                     diccionario[palabra]++;
                 }
             }
+            list=diccionario.ToList();
+            list.Sort(ordebarPalabras);
             MessageBox.Show(mostrarDiccionario(diccionario));
         }
         private static string mostrarDiccionario(Dictionary<string,int> d)
         {
             StringBuilder sb= new StringBuilder();
-            sb.AppendLine("Diccionario");
+            sb.AppendLine("Contador de Palabras");
             foreach(KeyValuePair<string,int> kvp in d)
             {
                 sb.AppendLine($"clave: {kvp.Key}, valor: {kvp.Value}");
             }
             return sb.ToString();
+        }
+        private static int ordebarPalabras(KeyValuePair<string,int> kvp1,KeyValuePair<string,int> kvp2)
+        {
+            return kvp1.Value -kvp2.Value;
         }
     }
 }

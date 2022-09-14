@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Consola
 {
@@ -13,16 +14,20 @@ namespace Consola
             Por último, mostrar los negativos ordenados en forma creciente.*/
 
             Stack<int> stack = new Stack<int>();
-            Stack<int> stackOrdenado=new Stack<int>();
+            List<int> lista;
             Random random = new Random();
+            
             for(int i = 0; i < 20; i++)
             {
                 stack.Push(random.Next(-10,11));
             }
             mostrarStack(stack);
-            foreach(int i in stack)
+            Console.WriteLine("lista ordenada");
+            lista =  stack.ToArray().ToList();
+            lista.Sort();
+            foreach(int i in lista)
             {
-
+                Console.WriteLine(i);
             }
 
 
@@ -36,5 +41,6 @@ namespace Consola
                 Console.WriteLine(i);
             }
         }
+        
     }
 }
