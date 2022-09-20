@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ctFGRhLPElKIg0OrseQOLlnB5mBy0DfudhuEeYRhWFQ5/eqouMVLsDUU8OI1hnpENaR/AjF8EzKiKWFTvS+Upw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\09.Polimorfismo\\Polimorfismo\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
