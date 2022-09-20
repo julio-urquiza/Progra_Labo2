@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzN5TqS16VTGYOqDqZiorvrJqFWyqzdF4FEx+bWB8/4Rkm8tj+fe1DV4gLvfed6BbEPgY8PNUo2kQo0BlThHRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\08.Herencia\\I01.8\\Vistas\\Vistas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

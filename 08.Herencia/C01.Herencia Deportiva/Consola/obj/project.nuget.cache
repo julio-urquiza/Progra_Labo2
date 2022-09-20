@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "coJqJKU8LqBEGk/tVbY9655g92F4EEb74+1ltuXvfHbW2yyxeXnk984ACEbA/WaQHDPEO5L5p5u6ZNbvDkBuHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\08.Herencia\\C01.Herencia Deportiva\\Consola\\Consola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
