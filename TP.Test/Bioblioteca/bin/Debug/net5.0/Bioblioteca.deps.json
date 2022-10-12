@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bioblioteca/1.0.0": {
+        "runtime": {
+          "Bioblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bioblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

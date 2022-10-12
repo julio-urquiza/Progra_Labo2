@@ -19,11 +19,11 @@ namespace Biblioteca
         {
             get { return nombreMetodo; }
         }
-        public CentralitaException(string mensaje,string clase,string metodo)
+        public CentralitaException(string mensaje,string clase,string metodo):base(mensaje)
         {
 
         }
-        public CentralitaException(string mensaje, string clase, string metodo,Exception innerException):this(mensaje,clase,metodo)
+        public CentralitaException(string mensaje, string clase, string metodo,Exception innerException):base(mensaje,innerException)
         {
         }
     }

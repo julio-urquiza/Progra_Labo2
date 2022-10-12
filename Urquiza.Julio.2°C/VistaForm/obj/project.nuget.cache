@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hnDgd3NZlD6j0ihK0AI1SnquzEwehmfp25H42XKAL7BKKvsyyqbYyh4M/MsbYA8X6CtC2++2NtdRxzHLXFxAFA==",
+  "dgSpecHash": "XlA7cB8Xjg36gNKsCgKZaDMSbbB3hZeFEfBVrvzb9q0iMV1ZL9gx/LSHK2XPdJuMbEUkV4xRDCy21c+iJ/Yd5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

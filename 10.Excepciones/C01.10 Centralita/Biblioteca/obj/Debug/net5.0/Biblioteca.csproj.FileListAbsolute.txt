@@ -34,3 +34,15 @@ C:\Users\Julio Cesar Urquiza\source\repos\09.Polimorfismo\C01.9 Centralita\Bibli
 C:\Users\Julio Cesar Urquiza\source\repos\09.Polimorfismo\C01.9 Centralita\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
 C:\Users\Julio Cesar Urquiza\source\repos\09.Polimorfismo\C01.9 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
 C:\Users\Julio Cesar Urquiza\source\repos\09.Polimorfismo\C01.9 Centralita\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\10.Excepciones\C01.10 Centralita\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

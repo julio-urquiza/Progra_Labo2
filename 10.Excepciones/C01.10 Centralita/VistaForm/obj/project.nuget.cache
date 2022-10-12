@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dbezjnpgp+kh8F6315seyMMwAYOdkiOeY7xd/XEReag2/EadKF616QDq2cgOMyo5fycN6BXEPpKyFyhm86GCkA==",
+  "dgSpecHash": "oJ+mZpub9RhqKQqnj+cSZEODsdK4xIilw9JqaOkgVpyVg3FMoNh5Z+F+/iA4vX1l/l/VUS3Jz2AVQpdMp++IRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\10.Excepciones\\C01.10 Centralita\\VistaForm\\VistaForm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\10.Excepciones\\C01.10 Centralita\\VistaForm\\VistaForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

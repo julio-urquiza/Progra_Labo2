@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j+7exWpq2xn1dxToo3Wh9LUs4KPvt+VreKdrvTM+BhRxabq3AJ9eKeITcCyhzz2tXHhvOwPoc+nRO7PEHGzw1w==",
+  "dgSpecHash": "pQNknRolZY04Lw75l1UM0aqB5vgwrcrhVBoMELn6kIXmElE7NYg9GoJwJhr4NHj7d4ld/yu3yVqjTrMKeeT/Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\repos\\10.Excepciones\\C01.10 Centralita\\Vistas\\Vistas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\10.Excepciones\\C01.10 Centralita\\Vistas\\Vistas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

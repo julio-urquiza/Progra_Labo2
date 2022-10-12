@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDzV1pqQWIMA+tTJ6BWOyYSwlv+9MyIm17EKEdo9lJGc++iE+aTBGB5dMQhwx5IomVQOYX+VGXDntH8dX2FQVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\05.Windows Forms\\WinFormsDataTableDataGridView\\Formularios\\Formularios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

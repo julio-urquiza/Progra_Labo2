@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj": {}
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio Cesar Urquiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj": {
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
+        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
         "projectName": "VistaForm",
-        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
+        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\VistaForm.csproj",
         "packagesPath": "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\VistaForm\\obj\\",
+        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\VistaForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio Cesar Urquiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +83,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj"
+              "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
@@ -103,10 +104,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -115,7 +123,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

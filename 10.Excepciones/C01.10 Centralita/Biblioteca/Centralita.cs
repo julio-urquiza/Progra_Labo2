@@ -131,10 +131,11 @@ namespace Biblioteca
 
         public static Centralita operator +(Centralita centralita,Llamada llamada)
         {
-            if(centralita!=llamada)
+            if(centralita==llamada)
             {
-                centralita.AgregarLlamada(llamada);
+                throw new CentralitaException("La llamada ya esta en registrada","Centralita","operador +");
             }
+            centralita.AgregarLlamada(llamada);
             return centralita;
         }
 

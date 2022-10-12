@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Formulario/1.0.0": {
+        "dependencies": {
+          "Bioblioteca": "1.0.0"
+        },
+        "runtime": {
+          "Formulario.dll": {}
+        }
+      },
+      "Bioblioteca/1.0.0": {
+        "runtime": {
+          "Bioblioteca.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formulario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bioblioteca/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

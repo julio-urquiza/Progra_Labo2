@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\Desktop\\Urquiza.Julio.2°C\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\Urquiza.Julio.2°C\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Julio Cesar Urquiza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

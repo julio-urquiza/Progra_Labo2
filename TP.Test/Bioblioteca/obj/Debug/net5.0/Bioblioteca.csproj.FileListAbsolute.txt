@@ -1,0 +1,12 @@
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\bin\Debug\net5.0\Bioblioteca.deps.json
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\bin\Debug\net5.0\Bioblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\bin\Debug\net5.0\Bioblioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.csproj.AssemblyReference.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.AssemblyInfoInputs.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.AssemblyInfo.cs
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\refint\Bioblioteca.dll
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\Bioblioteca.pdb
+C:\Users\Julio Cesar Urquiza\source\Progra_Labo2\TP.Test\Bioblioteca\obj\Debug\net5.0\ref\Bioblioteca.dll

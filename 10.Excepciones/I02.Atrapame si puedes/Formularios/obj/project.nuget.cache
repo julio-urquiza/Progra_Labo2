@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1+YZGKMi0Df5g+khQIRS0Gz1DdQT/uwn7MDkp/O0DqRUqhOLKyvZmBC6j3b23L8kV2y/63TL3V5XAEE/C/S6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julio Cesar Urquiza\\source\\Progra_Labo2\\10.Excepciones\\I02.Atrapame si puedes\\Formularios\\Formularios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julio Cesar Urquiza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

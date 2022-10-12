@@ -45,6 +45,7 @@ namespace VistaForm
             this.Close();
         }
 
+        # region botones
         private void button1_Click(object sender, EventArgs e)
         {
             if(focus)
@@ -202,6 +203,7 @@ namespace VistaForm
                 this.textBoxNroDeOrigen.Text = String.Empty;
             }
         }
+        # endregion 
 
         private void buttonLlamar_Click(object sender, EventArgs e)
         {
